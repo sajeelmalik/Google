@@ -1,6 +1,6 @@
 # @sajeel/google
 
-[![npm (scoped)](https://img.shields.io/badge/npm-v2.0.0-blue.svg)](https://www.npmjs.com/package/@sajeel/google)
+[![npm (scoped)](https://img.shields.io/badge/npm-v2.1.0-blue.svg)](https://www.npmjs.com/package/@sajeel/google)
 [![npm bundle size (minified)](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://www.npmjs.com/package/@sajeel/google)
 [![dependencies version](https://img.shields.io/badge/dependencies-uptodate-orange.svg)](https://www.npmjs.com/package/@sajeel/google)
 
