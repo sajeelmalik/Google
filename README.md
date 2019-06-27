@@ -30,7 +30,8 @@ A lightweight package boasting a simple but uncontroversially groundbreaking set
     > 1 ? positions.splice(0, positions.length-1).join(", ") + ", and " + 
     positions[positions.length-1]: positions.join("")}. Your search took ${time}s 
     long to execute.`)
-    // ==> Captain America appears 4 time(s) at indices 0, 3, 4, and 9. Your search took 0.23s long to execute.
+    // ==> Captain America appears 4 time(s) at indices 0, 3, 4, and 9. 
+    //     Your search took 0.23s long to execute.
 ```
 
 ### Online Search
