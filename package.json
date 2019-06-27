@@ -1,0 +1,12 @@
+{
+  "name": "google",
+  "version": "1.0.0",
+  "description": "A lightweight package boasting a simple but groundbreaking set of searching algorithms rivaling that of tech giant, Google",
+  "main": "google.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
